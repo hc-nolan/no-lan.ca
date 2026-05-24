@@ -1,0 +1,6 @@
+[submodule "zola-zap"]
+	path = zola-zap
+	url = https://github.com/jimmyff/zola-zap
+[submodule "themes/zap"]
+	path = themes/zap
+	url = https://github.com/jimmyff/zola-zap
